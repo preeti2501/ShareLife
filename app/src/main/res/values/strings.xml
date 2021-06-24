@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShareLife</string>
+    <string name="your_details_will_be_public_to_the_community_by_using_this_app_we_request_you_to_pledge_to_become_a_donor">Your Details will be public to the community. By using this app we request you to pledge to become a donor.</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="full_nme">Full Nme</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+
+    <string name="password">Password</string>
+    <string name="become_a_donor">Become a Donor</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="number">Mobile Number</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="make_request">Make Request</string>
+    <string name="write_your_a_heartfelt_message_and_add_an_image_somebody_will_definitely_help_you_if_possible">Write your heartfelt message and add an image. Somebody will definitely help you if possible.</string>
+    <string name="message">Message</string>
+    <string name="choose_image"><u>Choose Image</u></string>
+    <string name="post_request">Post Request</string>
+    <string name="be_calm_we_will_help_you">Be calm we will help you.</string>
+    <string name="choose_city">Choose City</string>
+    <string name="eg_london">eg: London</string>
+    <string name="find_donors">Find Donors</string>
+
+
+</resources>
